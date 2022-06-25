@@ -1,0 +1,35 @@
+
+.text {
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    padding: 2%;
+    margin-left: 2vw;
+    border-radius: 5%;
+    background-color: #82a28459;
+}
+
+.video {
+    border-radius: 5%;
+}
+
+@media screen and (max-width: 1200px) {
+    .video {
+        width: 100% !important;
+    }	
+
+    .text {
+        width: 90% !important;
+    }
+
+
+.links-em-negrito {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.links-em-negrito:hover {
+    text-decoration: none;
+    color: #198754;
+    font-weight: bold;
+}
