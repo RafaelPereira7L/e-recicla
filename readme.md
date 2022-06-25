@@ -1,3 +1,9 @@
+<h1 align="center">E-RECICLA - COLLEGE PROJECT</h1>
+<img src="https://api.netlify.com/api/v1/badges/2bc2ec09-9c4c-4e36-b8d5-5e6e3ab67f8e/deploy-status"/>
+<div align="center">
+<a href="https://e-recicla.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/VISIT-239120?style=for-the-badge&logoColor=white"/></a>
+</div>
+
 # FUNCIONALIDADES ATUAIS
 
 - CONTEÚDO DO SITE E SIDEBAR RESPONSIVOS.
